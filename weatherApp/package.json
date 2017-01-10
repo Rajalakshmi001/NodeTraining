@@ -1,0 +1,14 @@
+{
+  "name": "weatherapplication",
+  "version": "2.1.1",
+  "description": "An app to display weather forecast of current city",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raji",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.60.0"
+  }
+}
